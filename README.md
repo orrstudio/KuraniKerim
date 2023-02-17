@@ -2,7 +2,7 @@
 
 # [İmam İskender Ali M İ H R](https://www.mihr.com/)
 
-<img src="https://github.com/orrstudio/KuraniKerim/blob/ce895ba258569067ea3ece0f8ad272638c986022/MIHR-KURAN.png" height="300" align="middle" display="flex">
+[![Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)](https://github.com/orrstudio/KuraniKerim/blob/ce895ba258569067ea3ece0f8ad272638c986022/MIHR-KURAN.png)](https://www.mihr.com/Kuran/Tefsir)
 
 # [Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)](https://www.mihr.com/Kuran/Tefsir)
 
