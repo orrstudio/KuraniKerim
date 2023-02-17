@@ -1,12 +1,12 @@
-<img src="https://www.mihr.com/Content/images/slider_3.jpg" height="100%" align="middle">
+[![İmam İskender Ali M İ H R](https://www.mihr.com/Content/images/slider_3.jpg) "İmam İskender Ali M İ H R"](https://www.mihr.com)
 
 # [İmam İskender Ali M İ H R](https://www.mihr.com/)
 
-<img src="https://www.mihr.com/Content/images/logo2.png" height="150" align="middle">
+<img src="https://www.mihr.com/Content/images/logo2.png" height="150" align="middle" display="flex">
+
+![Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)](https://www.mihr.com/Content/images/kapakThumbnails/deda8425.JPG "Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)")
 
 # [Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)](https://www.mihr.com/Kuran/Tefsir)
-
-<img src="https://www.mihr.com/Content/images/kapakThumbnails/deda8425.JPG" height="150" align="middle">
 
 # 1 FÂTİHA
 1 FÂTİHA-1: Rahmân ve rahîm olan Allah'ın ismi ile.
