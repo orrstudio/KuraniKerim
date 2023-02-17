@@ -1,29 +1,9 @@
-/* Met Office external website
-
-Colours:
-- black/dark grey: #202A2C
-- dark grey: white
-- grey: #DDDDDD (thin lines)
-- light grey: #EEEEEE (background colour)
-- darkish green: #BCDB0C
-- green: #CCFF33
-- darkish blue: #4BA8BA
-- blue: #00ADD0
-
-*/
-
-/*******************************************************************************
- * GENERAL
- ******************************************************************************/
-/*<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,700' rel='stylesheet' type='text/css'>
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,700);*/
-
 body {
     font-size: 22px;
     font-family: "Open Sans", sans-serif !important;
     white-space: pre-wrap;
     background: #202A2C;
-    color: white;
+    color: green;
 }
 
 button {
