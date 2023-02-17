@@ -1,7 +1,7 @@
 <img src="https://www.mihr.com/Content/images/logo2.png" height="150" align="middle">
 
-[Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)](https://www.mihr.com/Kuran/Tefsir)
-[İmam İskender Ali M İ H R](https://www.mihr.com/)
+# [Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)](https://www.mihr.com/Kuran/Tefsir)
+  ## [İmam İskender Ali M İ H R](https://www.mihr.com/)
 
 
 # 1 FÂTİHA
