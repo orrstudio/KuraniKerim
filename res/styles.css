@@ -1,0 +1,23 @@
+body {
+    font-size: 32px;
+    font-family: "Open Sans", sans-serif !important;
+    background: #202A2C;
+    color: rgb(197, 197, 139);
+    padding: 30px;
+}
+
+
+div.page h1 {
+    font-weight: bold;
+    display: inline;
+    color: lightgreen;
+    font-size: 150%;
+}
+
+div.page h1.title {
+    text-align: left;
+    background: #161d1f;
+    margin: 0 auto vh auto;
+    width: 100%;
+    display: inline-block;
+}
