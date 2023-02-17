@@ -159,6 +159,7 @@ div.page h1 {
     font-weight: bold;
     display: inline;
     color: lightgreen;
+    font-size: 50%;
 }
 
 div.page h1.title {
