@@ -1,4 +1,4 @@
-<a href="https://www.mihr.com"><img src="https://github.com/orrstudio/KuraniKerim/blob/ce895ba258569067ea3ece0f8ad272638c986022/M%C4%B0HR.png" max-width="100%" max-height="100%" height="600" align="middle" title="İmam İskender Ali M İ H R"></a>
+<a href="https://www.mihr.com"><img src="https://github.com/orrstudio/KuraniKerim/blob/ce895ba258569067ea3ece0f8ad272638c986022/M%C4%B0HR.png" width="100%" height="600" align="middle" title="İmam İskender Ali M İ H R"></a>
 
 
 <a href="https://www.mihr.com/Kuran/Tefsir"><img src="https://github.com/orrstudio/KuraniKerim/blob/ce895ba258569067ea3ece0f8ad272638c986022/MIHR-KURAN.png" height="300" align="middle" title="Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)"></a>
