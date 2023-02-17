@@ -1,4 +1,4 @@
-[![İmam İskender Ali M İ H R](https://www.mihr.com/Content/images/slider_3.jpg) "İmam İskender Ali M İ H R"](https://www.mihr.com)
+[![İmam İskender Ali M İ H R](https://www.mihr.com/Content/images/slider_3.jpg)](https://www.mihr.com)
 
 # [İmam İskender Ali M İ H R](https://www.mihr.com/)
 
