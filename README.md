@@ -1,10 +1,10 @@
+<img src="https://www.mihr.com/Content/images/logo2.png" height="150" align="middle" display="flex">
+
 [![İmam İskender Ali M İ H R](https://www.mihr.com/Content/images/slider_3.jpg)](https://www.mihr.com)
 
 # [İmam İskender Ali M İ H R](https://www.mihr.com/)
 
-<img src="https://www.mihr.com/Content/images/logo2.png" height="150" align="middle" display="flex">
-
-![Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)](https://www.mihr.com/Content/images/kapakThumbnails/deda8425.JPG "Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)")
+<img src="https://www.mihr.com/Content/images/kapakThumbnails/deda8425.JPG" height="300" align="middle" display="flex">
 
 # [Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)](https://www.mihr.com/Kuran/Tefsir)
 
