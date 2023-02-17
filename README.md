@@ -1,8 +1,10 @@
+# [İmam İskender Ali M İ H R](https://www.mihr.com/)
+
 <img src="https://www.mihr.com/Content/images/logo2.png" height="150" align="middle">
 
 # [Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)](https://www.mihr.com/Kuran/Tefsir)
-  ## [İmam İskender Ali M İ H R](https://www.mihr.com/)
 
+<img src="https://www.mihr.com/Content/images/kapakThumbnails/deda8425.JPG" height="150" align="middle">
 
 # 1 FÂTİHA
 1 FÂTİHA-1: Rahmân ve rahîm olan Allah'ın ismi ile.
