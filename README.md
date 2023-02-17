@@ -1,10 +1,5 @@
 [![İmam İskender Ali M İ H R](https://github.com/orrstudio/KuraniKerim/blob/ce895ba258569067ea3ece0f8ad272638c986022/M%C4%B0HR.png)](https://www.mihr.com)
-
-# [İmam İskender Ali M İ H R](https://www.mihr.com/)
-
-[![Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)](https://github.com/orrstudio/KuraniKerim/blob/ce895ba258569067ea3ece0f8ad272638c986022/MIHR-KURAN.png)](https://www.mihr.com/Kuran/Tefsir)
-
-# [Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)](https://www.mihr.com/Kuran/Tefsir)
+<img src="https://github.com/orrstudio/KuraniKerim/blob/ce895ba258569067ea3ece0f8ad272638c986022/MIHR-KURAN.png" height="300" align="middle" href="https://www.mihr.com/Kuran/Tefsir" title="Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)">
 
 # 1 FÂTİHA
 1 FÂTİHA-1: Rahmân ve rahîm olan Allah'ın ismi ile.
