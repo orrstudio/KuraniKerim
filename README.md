@@ -1,9 +1,9 @@
-<a href="https://www.mihr.com"><img src="KuraniKerim/images/MİHR.png" width="100%" height="100%" align="middle" title="İmam İskender Ali MİHR Hazretleri"></a> 
+<a href="https://www.mihr.com"><img src="https://orrstudio.github.io/KuraniKerim/images/MİHR.png" width="100%" height="100%" align="middle" title="İmam İskender Ali MİHR Hazretleri"></a> 
 
 ## [OnePageKuraniKerim](https://orrstudio.github.io/KuraniKerim/index-onePage.html)
 ## [KuraniKerimWithTree](https://orrstudio.github.io/KuraniKerim/index-withTree.html)
 
-<a href="https://www.mihr.com/Kuran/Tefsir"><img src="KuraniKerim/images/MIHR-KURAN.png" width="25%" height="25%" align="middle" title="Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)"></a> 
+<a href="https://www.mihr.com/Kuran/Tefsir"><img src="https://orrstudio.github.io/KuraniKerim/images/MIHR-KURAN.png" width="25%" height="25%" align="middle" title="Kur'ân-ı Kerim Lafzı ve Ruhu (Tefsir)"></a> 
 
 # 1 FÂTİHA 
 
@@ -12703,5 +12703,10 @@
 
 114 NÂS-5: Ki o (hannas), insanların göğüslerine vesvese verir. 
 
+<<<<<<< HEAD
 114 NÂS-6: İnsanlardan ve cinlerden (insanların Rabbine, Meliki'ne ve İlâhı'na sığınırım). 
  
+=======
+114 NÂS-6: İnsanlardan ve cinlerden (insanların Rabbine, Meliki&#39;ne ve İlâhı&#39;na sığınırım). 
+ 
+>>>>>>> 821dcbfd8a554892f814b5633dd9486c8c9b1abc
